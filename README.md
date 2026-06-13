@@ -36,6 +36,14 @@ This project applies DCT compression to both grayscale and color images and reco
 5. The image is reconstructed using the Inverse DCT (IDCT).
 6. The original and compressed images are displayed for comparison.
 
+7. **RESULTS**
+<img width="436" height="500" alt="dog dog" src="https://github.com/user-attachments/assets/8eaf0ea0-319b-4c34-b0e9-b785a52815e5" />
+
+
+
+
+
+
 ## Installation
 
 Clone the repository:
